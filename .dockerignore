@@ -1,0 +1,14 @@
+# Jupyter Notebooks and checkpoints
+**/*.ipynb
+**/.ipynb_checkpoints
+
+# Data files (CSV)
+**/*.csv
+
+# Documentation
+README.md
+**/*.md
+
+# Ignore Python cache
+__pycache__/
+*.pyc
